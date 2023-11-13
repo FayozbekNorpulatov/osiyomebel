@@ -1,2 +1,1 @@
-# osiyomebel
-mebel web-sayt
+# osyomebil
